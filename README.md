@@ -1,2 +1,2 @@
 # Amazon_sales_report
-using PowerBI
+Analysis using PowerBI
