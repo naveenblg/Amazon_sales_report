@@ -1,5 +1,5 @@
 # Amazon_sales_report
-Analysis using PowerBI, MS Excel
+Amazon_sales_report Analysis using PowerBI, MS Excel
 
 Amazon sales report dashboard - Power BI, MS Excel - 
 Self Project | Amazon dataset | July 2025
